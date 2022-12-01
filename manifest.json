@@ -1,6 +1,6 @@
 {
-  "short_name": "健康码",
-  "name": "健康码",
+  "short_name": "HCode",
+  "name": "HCode",
   "icons": [
     {
       "src": "common/images/logo.jpg",
@@ -12,5 +12,5 @@
   "start_url": ".",
   "display": "standalone",
   "scope": "/",
-  "description": "健康码模拟"
+  "description": "HCode"
 }
