@@ -3,7 +3,7 @@
   "name": "HCode",
   "icons": [
     {
-      "src": "common/images/logo.jpg",
+      "src": "common/images/logo.png",
       "type": "image/jpeg",
       "sizes": "512x512"
     }
